@@ -139,7 +139,8 @@ Profit
 
 📷 Dashboard Preview
 ----------------------
-https://github.com/dd0a426/Abhay-Ecommerce-Sales-Dashboard/blob/main/Screenshot%20(294).png
+<img width="1352" height="751" alt="Snapshot of Sales Dashboard" src="https://github.com/dd0a426/Abhay-Ecommerce-Sales-Dashboard/blob/main/Screenshot%20(294).png" />
+
 
 
 👨‍💻 Developed By
